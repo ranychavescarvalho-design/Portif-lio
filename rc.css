@@ -1,0 +1,21 @@
+.rc {
+    background-color: rgb(72, 1, 119);
+}
+
+body {
+    background-size: cover;   
+    background-position: center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+}
+
+.conteudo-banner h1 {
+    font-size: 4rem;               
+    font-weight: bold;
+}
+
+.minha-img {
+    width: 300px;
+    display:block;
+    margin: 0 auto;
+}
